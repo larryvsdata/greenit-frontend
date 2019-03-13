@@ -1,0 +1,23 @@
+label {
+  font-style: italic;
+  color:  #DC143C;
+  font-size: 18px;
+}
+
+h2 {
+  font-family:  Blippo, fantasy;
+  font-stretch: extra-expanded;
+  color:  #00008B;
+}
+
+div {
+
+  background-color: Linen ;
+}
+
+.Main {
+
+  font-style: italic;
+  color:  red;
+  font-size: 28px;
+}
